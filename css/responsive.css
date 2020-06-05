@@ -1,0 +1,209 @@
+@media (max-width: 575.98px) { 
+    .middle{
+        text-align: center;
+    }
+    .whiteline{
+        margin: 0 auto;
+    }
+    .pera1{
+        font-size: 25px;
+    }
+    .text1{
+        font-size: 15px;
+        padding: 0 15px;
+    }
+    .subscription{
+        width: 90%;
+        margin: 55px auto;
+    }
+    .wid{
+        position: relative;
+        width: 30%;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .wid1{
+        position: relative;
+        width: 70%;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+.tab-btn-group{
+        width: 160px;
+    } 
+    .pera4{
+        font-size: 20px;
+    }
+    .text4{
+        font-size: 14px
+    }
+    .text5{
+        font-size: 14px
+    }
+    .icons .fa{
+        font-size: 20px;
+    }
+    .pera7{
+        font-size: 30px;
+    }
+    .text9{
+        font-size: 15px;
+    }
+    .text10{
+        font-size: 15px;
+    }
+    .heroarea1{
+        margin: 60px 20px;
+    }
+    .text11{
+        font-size: 15px;
+    }
+    .hero4{
+        background-position: bottom;
+    }
+    .pera10{
+        font-size: 30px;
+    }
+    .icons2 .fa{
+        font-size: 18px;
+    }
+     .icons{
+        margin: 0 12px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+    .middle{
+        text-align: center;
+    } 
+    .whiteline{
+        margin: 0 auto;
+    }
+    .subscription{
+        margin: 60px 80px;
+        
+    }
+    .pera1{
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+    
+    .icons .fa{
+        padding-bottom: 10px;
+    }
+    .wid{
+        width: 50%;
+        position: relative;
+        padding-right: 0px;
+        padding-left: 0px;
+        margin: 0 auto;
+    }
+    .wid1{
+        width: 50%;
+        position: relative;
+        padding-right: 0px;
+        padding-left: 0px;
+       margin:0 auto;
+    }
+    .feature1-img{
+        margin-left: 180px;
+        margin-top: 145px;
+    }
+    .tab-btn-group{
+        width: 160px;
+    }
+    .heroarea1{
+        margin: 60px 80px;
+    }
+    .hero4{
+        width: 50%;
+        margin: 10px 170px;
+        background-position: bottom;
+    }
+    .hero5{
+        width: 20%;
+        margin: 10px 170px
+    }
+    .pera9{
+    width: 20%;
+    margin-left: 170px;
+    }
+    .text10{     
+        padding: 0 25px;
+    }
+    .text12{    
+    width: 20%;
+    margin-left: 170px;
+    }
+    .feature3-img{
+        margin-left: 80px;
+        margin-top: 30px;
+    }
+ }
+
+
+@media (min-width:769px) and (max-width: 992px) {
+    .btn-download{
+        margin-bottom: 50px
+    }
+    .icons{
+        
+    margin-left: 30px;
+    }
+    .tab-btn-group{
+        
+    width: 160px;
+    }
+    .text10{
+        font-size: 13px;
+    }
+    .hero4{
+        background-position: bottom;
+    
+    }
+    .text11{
+        font-size: 15px;
+    
+    }
+    .pera9{
+        margin-left: 20px
+    }
+    .text12{
+        margin-left: 20px
+    }
+ }
+
+
+@media (min-width: 993px) and (max-width: 1199.98px) { 
+    .banner{
+        min-height: 700px;
+    }
+    .subscription{
+        width: 80%;
+    }
+    .tab-btn-group{
+        width: 160px;
+    }
+    .hero4{
+        background-position: bottom;
+        width: 100%;
+        background-size:cover
+        
+    }
+    .text11{
+         font-size: 15px;
+     
+     }
+     .pera9{
+         margin-left: 20px
+     }
+     .text12{
+         margin-left: 20px
+     }
+     .icons{
+        margin-left: 30px
+    }
+    .text10{
+        font-size: 15px
+    }
+}
